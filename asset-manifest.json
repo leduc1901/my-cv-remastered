@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/my-cv-remastered/static/css/main.4e3f6e65.chunk.css",
+    "main.js": "/my-cv-remastered/static/js/main.16b8a6b7.chunk.js",
+    "main.js.map": "/my-cv-remastered/static/js/main.16b8a6b7.chunk.js.map",
+    "runtime-main.js": "/my-cv-remastered/static/js/runtime-main.aee6621a.js",
+    "runtime-main.js.map": "/my-cv-remastered/static/js/runtime-main.aee6621a.js.map",
+    "static/js/2.53d691ab.chunk.js": "/my-cv-remastered/static/js/2.53d691ab.chunk.js",
+    "static/js/2.53d691ab.chunk.js.map": "/my-cv-remastered/static/js/2.53d691ab.chunk.js.map",
+    "index.html": "/my-cv-remastered/index.html",
+    "precache-manifest.86d36c43eb7d7dcb101e61d9e0e1f659.js": "/my-cv-remastered/precache-manifest.86d36c43eb7d7dcb101e61d9e0e1f659.js",
+    "service-worker.js": "/my-cv-remastered/service-worker.js",
+    "static/css/main.4e3f6e65.chunk.css.map": "/my-cv-remastered/static/css/main.4e3f6e65.chunk.css.map",
+    "static/js/2.53d691ab.chunk.js.LICENSE.txt": "/my-cv-remastered/static/js/2.53d691ab.chunk.js.LICENSE.txt",
+    "static/media/37046583_1469068633238535_8959388683824267264_o.jpg": "/my-cv-remastered/static/media/37046583_1469068633238535_8959388683824267264_o.1fe027c4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aee6621a.js",
+    "static/js/2.53d691ab.chunk.js",
+    "static/css/main.4e3f6e65.chunk.css",
+    "static/js/main.16b8a6b7.chunk.js"
+  ]
+}
